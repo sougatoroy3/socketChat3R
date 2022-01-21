@@ -8,8 +8,8 @@ from kivy.uix.textinput import TextInput
 from kivy.core.window import Window
 from socket import *
 conn=''
-host='192.168.1.5'
-port=58323
+host='192.168.1.5' #replace it with your IP
+port=58323         #replace it with your port number
 s=socket()
 chatOb=None
 
