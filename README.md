@@ -12,3 +12,5 @@ A Chat Application using Kivy and socket programming which connects two parties 
 
 # .kv files
   chatappinterface.kv and registration.kv to present the widget parameters
+  
+*incomplete backend stuff will update later prolly*
