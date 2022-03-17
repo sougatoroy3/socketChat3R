@@ -1,8 +1,7 @@
 # socketChat3R
 [![forthebadge made-with-python](http://ForTheBadge.com/images/badges/made-with-python.svg)](https://www.python.org/)
 
-<p align="center">
-  <img src=https://img.shields.io/github/license/sougatoroy3/socketChat3R?color=%23A100FF>
+<p align="left">
   <img src="https://img.shields.io/github/repo-size/sougatoroy3/socketChat3R?color=yellow">
   <img src="https://img.shields.io/github/stars/sougatoroy3/socketChat3R?style=social">
 </p>
