@@ -4,6 +4,7 @@
 <p align="left">
   <img src="https://img.shields.io/github/repo-size/sougatoroy3/socketChat3R?color=yellow">
   <img src="https://img.shields.io/github/stars/sougatoroy3/socketChat3R?style=social">
+  <img src="https://img.shields.io/github/commit-activity/y/sougatoroy3/socketChat3Rr?color=%23ff3&logo=commit">
 </p>
 
 A Chat Application using Kivy and socket programming which connects two parties via type and send interface. 
