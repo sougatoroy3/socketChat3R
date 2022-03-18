@@ -1,6 +1,12 @@
 # socketChat3R
 [![forthebadge made-with-python](http://ForTheBadge.com/images/badges/made-with-python.svg)](https://www.python.org/)
 
+<p align="left">
+  <img src="https://img.shields.io/badge/Author-sougatoroy3-ff69b4.svg" />
+  <img src="https://img.shields.io/github/repo-size/sougatoroy3/socketChat3R?color=yellow">
+  <img src="https://img.shields.io/github/stars/sougatoroy3/socketChat3R?style=social">
+</p>
+
 A Chat Application using Kivy and socket programming which connects two parties via type and send interface. 
 
 # Registration
